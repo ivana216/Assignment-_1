@@ -6,3 +6,7 @@ Contiene:
 * processori.md
 * schede_madri.md
 ## Periferiche
+* tastiere.md
+* mouse.md
+
+Elettronica Padovana
