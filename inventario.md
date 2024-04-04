@@ -5,3 +5,4 @@
 Contiene:
 * processori.md
 * schede_madri.md
+## Periferiche
